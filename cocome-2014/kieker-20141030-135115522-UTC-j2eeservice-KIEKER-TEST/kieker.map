@@ -1,0 +1,11 @@
+$0=kieker.common.record.misc.KiekerMetadataRecord
+$1=org.spp.iobserve.common.record.ServletDeployedEvent
+$2=org.spp.iobserve.common.record.ServletUndeployedEvent
+$3=kieker.common.record.flow.trace.TraceMetadata
+$4=kieker.common.record.flow.trace.operation.BeforeOperationEvent
+$5=kieker.common.record.flow.trace.operation.object.BeforeOperationObjectEvent
+$6=kieker.common.record.flow.trace.operation.object.AfterOperationObjectEvent
+$7=org.spp.iobserve.common.record.EJBDeployedEvent
+$8=kieker.common.record.flow.trace.operation.AfterOperationEvent
+$9=kieker.common.record.flow.trace.operation.object.AfterOperationFailedObjectEvent
+$10=org.spp.iobserve.common.record.EJBUndeployedEvent
